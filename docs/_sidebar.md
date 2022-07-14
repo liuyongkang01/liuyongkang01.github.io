@@ -4,7 +4,7 @@
 * [操作指南](guide)
 
 * 前端技术
-    * [javascript](01/javascript/ )
+    * [chapter](01/chapter-1章.md )
     * [echarts](01/echarts/)
 
 * 服务端技术
